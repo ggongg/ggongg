@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on operations where I focus on improving efficiency. 
+- 🌱 I’m currently learning learning react, frontend, backend, and databases. 
+- 👯 I’m looking to collaborate on projects! 
+- 😄 Pronouns: she/her 
