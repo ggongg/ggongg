@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on operations where I focus on improving efficiency. 
+- 🔭 I’m currently working as a business systems analyst in global wholesale operations (Global Banking and Markets) at a financial institution where I focus on improving efficiency through Macros in Visual Basic in Excel. 
 - 👯 I’m looking to collaborate on projects! 
 - 😄 Pronouns: she/her 
