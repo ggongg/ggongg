@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a business systems analyst in Global Banking and Markets at a financial institution where I focus on improving efficiency through Macros in Visual Basic in Excel. 
+- 🔭 I’m currently working as a business systems analyst at a financial institution where I focus on improving efficiency through Macros in Visual Basic in Excel. 
 
 📝 Recent Experience
 - Google Software Product Sprint Summer 2022
