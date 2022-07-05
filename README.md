@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a business systems analyst at a financial institution where I focus on improving efficiency through Macros in Visual Basic in Excel. 
 
-📝 Recent Experience
-- Google Software Product Sprint Summer 2022
-- Business Systems Analyst Intern - Summer 2022
-- RBC & Battlesnake Developer Fellow - Summer 2022
-- Ivey Business School Researcher / Developer for Database Project on Python Webscraping - Summer 2022
+📝 Experience
+- Business Systems Analyst Intern Summer 2022
+- Google Software Product Sprint 2022
+- RBC & Battlesnake Developer Fellow 2022
+- Ivey Business School Researcher / Developer for Database Project on Python Webscraping - 2022
 
 - Data Entry Specialist Intern - Shoppers Specialty Health Network  - Summer 2021
 - Founder - Youth180 - Spring 2019 
