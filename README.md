@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a business systems analyst in Global Banking and Markets at a financial institution where I focus on improving efficiency through Macros in Visual Basic in Excel. 
 
-📝 Recent Roles
+📝 Recent Experience
+- Google Software Product Sprint Summer 2022
 - Business Systems Analyst Intern - Summer 2022
-- RBC & Battelsnake Developer Fellow - Summer 2022
+- RBC & Battlesnake Developer Fellow - Summer 2022
 - Ivey Business School Researcher / Developer for Database Project on Python Webscraping - Summer 2022
 
 - Data Entry Specialist Intern - Shoppers Specialty Health Network  - Summer 2021
