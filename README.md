@@ -1,4 +1,7 @@
 # Hello, I'm Grace! 👋
+<div align="left">
+  <p>Visit my portfolio at <a href="https://graceg.co">graceg.co</a> 🚀</p>
+</div>
 
 ## 🎓 Education
 - Computer Science Student at University of Western Ontario (UWO)
