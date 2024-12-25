@@ -26,14 +26,6 @@
   </tr>
 </table>
 
-### Previous Internships
-- Product Management Intern @ Microsoft
-- Product Management Intern @ Datadog
-- Software Engineering Intern @ GoDaddy
-- Software Engineering Intern @ Ontario Teachers' Pension Plan
-- Business Intelligence Engineer Intern @ Scotiabank
-- Data Analyst Intern @ Loblaw Companies Limited
-
 ## 📝 Blog & Writing
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@1grace)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ggong.substack.com/)
