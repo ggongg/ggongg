@@ -13,11 +13,11 @@
 ## 💼 Experience
 <table>
   <tr>
-    <td><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a></td>
-    <td><a href="https://www.datadoghq.com/blog/datadog-llm-observability/" target="_blank"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /></a></td>
+    <td><a href="https://www.blog.graceg.co/p/my-microsoft-pm-internship?r=p43nz" target="_blank"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a></td>
+    <td><a href="https://www.blog.graceg.co/p/building-machine-learningllm-observability?r=p43nz" target="_blank"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://auctions.godaddy.com/beta" target="_blank"><img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white" /></a></td>
+    <td><a href="https://www.blog.graceg.co/p/my-software-development-engineer?r=p43nz" target="_blank"><img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white" /></a></td>
     <td><a href="https://www.gbm.scotiabank.com/en.html" target="_blank"><img src="https://img.shields.io/badge/Scotiabank-FF0000?style=for-the-badge&logo=scotiabank&logoColor=white" /></a></td>
   </tr>
   <tr>
