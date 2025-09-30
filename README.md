@@ -9,7 +9,7 @@
 
 ## Extracurriculars
 - Grace Hopper Conference Speaker 2025 - Intro to Power BI & Fabric + Copilot 
-- Supercomputing Conference Community Engagement Commitee (SC) - Present
+- Supercomputing Conference Community Engagement Commitee (SC) 
 - Conference Volunteer - 2025: ICML (International Conference for Machine Learning), WiCys, BSides, Defcon & Hackathon Mentor - 2024: Stanford Treehacks, Waterloo Hack the North, Hack Western, 
 - GitHub Campus Expert (2023 - 2024)
 - Google Developer Groups @ UWO Advisor & Lead (2022-2024)
@@ -31,6 +31,9 @@
   </tr>
 </table>
 
+## Leadership 
+- Founder of Youth180, a non-profit initiative building communities for youth. Over 100K+ website impressions and 2M+ impressions on social media dedicated to sharing opportunities & learnings. - 2019 
+  
 ## Blog & Writing
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@1grace)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://www.blog.graceg.co/about)
