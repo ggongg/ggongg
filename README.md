@@ -32,7 +32,8 @@
 </table>
 
 ## Leadership 
-- Founder of Youth180, a non-profit initiative building communities for youth. Over 100K+ website impressions and 2M+ impressions on social media dedicated to sharing opportunities & learnings. - 2019 
+- Founder of [Youth180](https://www.youth180.com/), a non-profit initiative building communities for youth. Over 100K+ website impressions and 2M+ impressions on social media dedicated to sharing opportunities & learnings. (2019)
+- Completed university accredited coursework on Business Communications, High Impact Presentations, How to Sell Like a Pro, & Leadership Development jointly between Dale Carnegie & University of Central Missouri 
   
 ## Blog & Writing
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@1grace)
