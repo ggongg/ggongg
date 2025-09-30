@@ -4,7 +4,8 @@
 </div>
 
 ## Education
-- Computer Science Alumni at University of Western Ontario (UWO)
+- **M.S. / Graduate coursework — Georgia Institute of Technology** 
+- **B.Sc. Computer Science** — University of Western Ontario (UWO)
 
 ## Extracurriculars
 - GitHub Campus Expert
@@ -30,7 +31,6 @@
 ## Blog & Writing
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@1grace)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://www.blog.graceg.co/about)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/1grace)
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/1gracegong)
