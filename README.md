@@ -8,8 +8,11 @@
 - **B.Sc. Computer Science** — University of Western Ontario (UWO)
 
 ## Extracurriculars
-- GitHub Campus Expert
-- Google Developer Student Club Advisor & Lead (2022-2024)
+- Grace Hopper Conference Speaker 2025 - Intro to Power BI & Fabric + Copilot 
+- Supercomputing Conference Community Engagement Commitee (SC) - Present
+- Conference Volunteer - 2025: ICML (International Conference for Machine Learning), WiCys, BSides, Defcon & Hackathon Mentor - 2024: Stanford Treehacks, Waterloo Hack the North, Hack Western, 
+- GitHub Campus Expert (2023 - 2024)
+- Google Developer Groups @ UWO Advisor & Lead (2022-2024)
 - Women in CS Committee (2022 - 2024)
 
 ## Experience
