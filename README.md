@@ -4,8 +4,10 @@
 </div>
 
 ## Education
-- **M.S. / Graduate coursework — Georgia Institute of Technology** 
+- **Graduate coursework in Computer Science** — Georgia Institute of Technology (GT)
+- **Graduate coursework in Management** — University of Illinois Urbana-Champaign (UIUC) 
 - **B.Sc. Computer Science** — University of Western Ontario (UWO)
+- **Individual Coursework** in Leadership, Management, Marketing & Communications - University of Central Missouri (UCM) 
 
 ## Extracurriculars
 - Grace Hopper Conference Speaker 2025 - Intro to Power BI & Fabric + Copilot 
