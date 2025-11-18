@@ -15,22 +15,6 @@
 - GitHub Campus Expert (2023 - 2024)
 - Google Developer Groups @ UWO Advisor & Lead (2022-2024)
 - Women in CS Committee (2022 - 2024)
-
-## Experience
-<table>
-  <tr>
-    <td><a href="https://www.blog.graceg.co/p/my-microsoft-pm-internship?r=p43nz" target="_blank"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a></td>
-    <td><a href="https://www.blog.graceg.co/p/building-machine-learningllm-observability?r=p43nz" target="_blank"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.blog.graceg.co/p/my-software-development-engineer?r=p43nz" target="_blank"><img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white" /></a></td>
-    <td><a href="https://www.gbm.scotiabank.com/en.html" target="_blank"><img src="https://img.shields.io/badge/Scotiabank-FF0000?style=for-the-badge&logo=scotiabank&logoColor=white" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.otpp.com" target="_blank"><img src="https://img.shields.io/badge/Ontario_Teachers'-FF0000?style=for-the-badge&logoColor=white" /></a></td>
-    <td><a href="https://www.sdmshn.ca/" target="_blank"><img src="https://img.shields.io/badge/Loblaw_Companies-000000?style=for-the-badge&logoColor=white" /></a></td>
-  </tr>
-</table>
   
 ## Blog & Writing
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@1grace)
