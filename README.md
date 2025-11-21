@@ -28,6 +28,8 @@
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/1grace)
 [![Sessionize](https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/gracegong)
 [![Topmate](https://img.shields.io/badge/Topmate-FF5722?style=for-the-badge&logoColor=white)](https://topmate.io/graceg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=about.me&logoColor=black)](https://graceg.co)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F8BBD0?style=for-the-badge&logo=about.me&logoColor=black)](https://graceg.co)
+
+
 
 
