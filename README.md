@@ -8,14 +8,6 @@
 - **B.Sc. Computer Science** at the University of Western Ontario (UWO)
 - **Individual Coursework** in Leadership, Management, Marketing & Communications at the University of Central Missouri (UCM) 
 
-## Extracurriculars
-- Grace Hopper Conference Speaker 2025 - Intro to Power BI & Fabric + Copilot 
-- Supercomputing Conference Community Engagement Commitee (SC) 
-- Conference Volunteer - 2025: ICML (International Conference for Machine Learning), WiCys, BSides, Defcon & Hackathon Mentor - 2024: Stanford Treehacks, Waterloo Hack the North, Hack Western, 
-- GitHub Campus Expert (2023 - 2024)
-- Google Developer Groups @ UWO Advisor & Lead (2022-2024)
-- Women in CS Committee (2022 - 2024)
-  
 ## Blog & Writing
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@1grace)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://www.blog.graceg.co/about)
