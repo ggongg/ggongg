@@ -3,11 +3,6 @@
   <p>Visit my portfolio at <a href="https://graceg.co">graceg.co</a></p>
 </div>
 
-## Education
-- **Graduate coursework in Computer Science** at the Georgia Institute of Technology (GT)
-- **B.Sc. Computer Science** at the University of Western Ontario (UWO)
-- **Individual Coursework** in Leadership, Management, Marketing & Communications at the University of Central Missouri (UCM) 
-
 ## Blog & Writing
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@1grace)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://www.blog.graceg.co/about)
