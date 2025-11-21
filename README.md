@@ -19,6 +19,7 @@
 ## Blog & Writing
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@1grace)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://www.blog.graceg.co/about)
+[![Power BI Blog](https://img.shields.io/badge/Power%20BI%20Blog-FFB900?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)](https://powerbi.microsoft.com/en-us/blog/author/gracegong/)
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/1gracegong)
